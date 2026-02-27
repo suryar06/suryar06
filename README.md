@@ -22,6 +22,8 @@
 <a href= https://www.linkedin.com/in/surya-radhakrishnan-1074b5376 />
 </a>
 <a href= https://www.instagram.com/surya_radhakrishnan2006?igsh=MWM1eGJvZXJmMDdzOQ== />
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </a>
 </p>
 
